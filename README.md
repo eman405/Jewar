@@ -1,7 +1,5 @@
 # جِوار - Jewar🏠🎓
 ---
-# 🎨 Color Palette
-
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![#003049](https://via.placeholder.com/50/003049/000000?text=+) | ![#33596d](https://via.placeholder.com/50/33596d/000000?text=+) | ![#668392](https://via.placeholder.com/50/668392/000000?text=+) | ![#ccd6db](https://via.placeholder.com/50/ccd6db/000000?text=+) | ![#669bbc](https://via.placeholder.com/50/669bbc/000000?text=+) | ![#85afc9](https://via.placeholder.com/50/85afc9/000000?text=+) | ![#a3c3d7](https://via.placeholder.com/50/a3c3d7/000000?text=+) | ![#e0ebf2](https://via.placeholder.com/50/e0ebf2/000000?text=+) | ![#e76f51](https://via.placeholder.com/50/e76f51/000000?text=+) | ![#ec8c74](https://via.placeholder.com/50/ec8c74/000000?text=+) | ![#f1a997](https://via.placeholder.com/50/f1a997/000000?text=+) | ![#fae2dc](https://via.placeholder.com/50/fae2dc/000000?text=+) |
