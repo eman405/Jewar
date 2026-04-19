@@ -1,8 +1,8 @@
 # جِوار - Jewar🏠🎓
 ---
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![#003049](https://via.placeholder.com/50/003049/000000?text=+) | ![#33596d](https://via.placeholder.com/50/33596d/000000?text=+) | ![#668392](https://via.placeholder.com/50/668392/000000?text=+) | ![#ccd6db](https://via.placeholder.com/50/ccd6db/000000?text=+) | ![#669bbc](https://via.placeholder.com/50/669bbc/000000?text=+) | ![#85afc9](https://via.placeholder.com/50/85afc9/000000?text=+) | ![#a3c3d7](https://via.placeholder.com/50/a3c3d7/000000?text=+) | ![#e0ebf2](https://via.placeholder.com/50/e0ebf2/000000?text=+) | ![#e76f51](https://via.placeholder.com/50/e76f51/000000?text=+) | ![#ec8c74](https://via.placeholder.com/50/ec8c74/000000?text=+) | ![#f1a997](https://via.placeholder.com/50/f1a997/000000?text=+) | ![#fae2dc](https://via.placeholder.com/50/fae2dc/000000?text=+) |
+![#003049](https://img.shields.io/badge/-003049-003049?style=flat-square) ![#33596d](https://img.shields.io/badge/-33596d-33596d?style=flat-square) ![#668392](https://img.shields.io/badge/-668392-668392?style=flat-square) ![#ccd6db](https://img.shields.io/badge/-ccd6db-ccd6db?style=flat-square) 
+![#669bbc](https://img.shields.io/badge/-669bbc-669bbc?style=flat-square) ![#85afc9](https://img.shields.io/badge/-85afc9-85afc9?style=flat-square) ![#a3c3d7](https://img.shields.io/badge/-a3c3d7-a3c3d7?style=flat-square) ![#e0ebf2](https://img.shields.io/badge/-e0ebf2-e0ebf2?style=flat-square) 
+![#e76f51](https://img.shields.io/badge/-e76f51-e76f51?style=flat-square) ![#ec8c74](https://img.shields.io/badge/-ec8c74-ec8c74?style=flat-square) ![#f1a997](https://img.shields.io/badge/-f1a997-f1a997?style=flat-square) ![#fae2dc](https://img.shields.io/badge/-fae2dc-fae2dc?style=flat-square)
 
 ---
 ## 📝 وصف المشروع (Project Description)
