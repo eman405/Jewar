@@ -1,27 +1,6 @@
 # جِوار - Jewar🏠🎓
 
 ---
-# 🎨 الهوية البصرية (Visual Identity)
-
-لضمان تجربة مستخدم مريحة ومتزنة بصرياً، تم اختيار باليت ألوان تعكس الثقة، الهدوء، والحيوية:
-
-### **1. Halite Blue (الأزرق الداكن - الأساسي)**
-يعكس الثقة والموثوقية التي تسعى منصة "جوار" لبنائها مع الطلاب والأهالي.
-* ![#003049](https://via.placeholder.com/15/003049/000000?text=+) `#003049` (Base)
-* ![#33596d](https://via.placeholder.com/15/33596d/000000?text=+) `#33596d` | ![#668392](https://via.placeholder.com/15/668392/000000?text=+) `#668392` | ![#ccd6db](https://via.placeholder.com/15/ccd6db/000000?text=+) `#ccd6db`
-
-### **2. Gulf Stream Blue (الأزرق الفاتح)**
-يستخدم لإضفاء روح الحداثة والسهولة الرقمية في الواجهات.
-* ![#669bbc](https://via.placeholder.com/15/669bbc/000000?text=+) `#669bbc` (Base)
-* ![#85afc9](https://via.placeholder.com/15/85afc9/000000?text=+) `#85afc9` | ![#a3c3d7](https://via.placeholder.com/15/a3c3d7/000000?text=+) `#a3c3d7` | ![#e0ebf2](https://via.placeholder.com/15/e0ebf2/000000?text=+) `#e0ebf2`
-
-### **3. Dusty Orange (البرتقالي - لون التفاعل)**
-يستخدم لتمييز أزرار العمليات (CTAs) والتنبيهات الهامة لضمان لفت انتباه المستخدم.
-* ![#e76f51](https://via.placeholder.com/15/e76f51/000000?text=+) `#e76f51` (Base)
-* ![#ec8c74](https://via.placeholder.com/15/ec8c74/000000?text=+) `#ec8c74` | ![#f1a997](https://via.placeholder.com/15/f1a997/000000?text=+) `#f1a997` | ![#fae2dc](https://via.placeholder.com/15/fae2dc/000000?text=+) `#fae2dc`
-
----
-
 ## 📝 وصف المشروع (Project Description)
 منصة رقمية متخصصة تهدف إلى سد الفجوة بين الطلاب المغتربين وسوق العقارات المحلي. المشروع ليس مجرد محرك بحث عن شقق، بل هو بيئة آمنة (Ecosystem) مصممة خصيصاً لتلبية احتياجات الطالب المغترب، مع مراعاة ميزانيته المحدودة واحتياجه للأمان والقرب من المنشآت التعليمية.
 
