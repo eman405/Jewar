@@ -161,3 +161,6 @@
 * أصحاب العقارات السكنية في المناطق الجامعية.
 * الاتحادات الطلابية والجامعات (للانتشار والتوثيق).
 * مقدمي الخدمات التكميلية (نقل، صيانة، إنترنت).
+---
+## رابط استطلاع رأي المستخدمين - User Survey Google Form
+https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi5uzx5qTe0w/viewform?usp=header
