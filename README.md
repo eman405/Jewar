@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\USER\Downloads\Form Cover.png"" alt="Jewar App Cover" width="100%">
+  <img src="C:\Users\USER\Downloads\Form Cover.png" alt="Jewar App Cover" width="100%">
 </p>
 ---
 # جِوار -Jewar🏠🎓
