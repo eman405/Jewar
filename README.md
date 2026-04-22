@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Form Cover.png" alt="Jewar App Cover" width="100%">
-</p>
+![Uploading Form Cover.png…]()
 
 # جِوار - Jewar 🏠🎓
 
