@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="C:\Users\USER\Downloads\Form Cover.png" alt="Jewar App Cover" width="100%">
-</p>
----
 # جِوار -Jewar🏠🎓
 ---
 ![#003049](https://img.shields.io/badge/-003049-003049?style=flat-square) ![#33596d](https://img.shields.io/badge/-33596d-33596d?style=flat-square) ![#668392](https://img.shields.io/badge/-668392-668392?style=flat-square) ![#ccd6db](https://img.shields.io/badge/-ccd6db-ccd6db?style=flat-square) 
