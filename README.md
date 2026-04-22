@@ -1,10 +1,22 @@
-# جِوار -Jewar🏠🎓
----
-![#003049](https://img.shields.io/badge/-003049-003049?style=flat-square) ![#33596d](https://img.shields.io/badge/-33596d-33596d?style=flat-square) ![#668392](https://img.shields.io/badge/-668392-668392?style=flat-square) ![#ccd6db](https://img.shields.io/badge/-ccd6db-ccd6db?style=flat-square) 
-![#669bbc](https://img.shields.io/badge/-669bbc-669bbc?style=flat-square) ![#85afc9](https://img.shields.io/badge/-85afc9-85afc9?style=flat-square) ![#a3c3d7](https://img.shields.io/badge/-a3c3d7-a3c3d7?style=flat-square) ![#e0ebf2](https://img.shields.io/badge/-e0ebf2-e0ebf2?style=flat-square) 
+<p align="center">
+  <img src="Form Cover.png" alt="Jewar App Cover" width="100%">
+</p>
+
+# جِوار - Jewar 🏠🎓
+
+**🎨 الهوية البصرية (Color Palette)**
+
+**Halite Blue**
+![#003049](https://img.shields.io/badge/-003049-003049?style=flat-square) ![#33596d](https://img.shields.io/badge/-33596d-33596d?style=flat-square) ![#668392](https://img.shields.io/badge/-668392-668392?style=flat-square) ![#ccd6db](https://img.shields.io/badge/-ccd6db-ccd6db?style=flat-square)
+
+**Gulf Stream Blue**
+![#669bbc](https://img.shields.io/badge/-669bbc-669bbc?style=flat-square) ![#85afc9](https://img.shields.io/badge/-85afc9-85afc9?style=flat-square) ![#a3c3d7](https://img.shields.io/badge/-a3c3d7-a3c3d7?style=flat-square) ![#e0ebf2](https://img.shields.io/badge/-e0ebf2-e0ebf2?style=flat-square)
+
+**Dusty Orange**
 ![#e76f51](https://img.shields.io/badge/-e76f51-e76f51?style=flat-square) ![#ec8c74](https://img.shields.io/badge/-ec8c74-ec8c74?style=flat-square) ![#f1a997](https://img.shields.io/badge/-f1a997-f1a997?style=flat-square) ![#fae2dc](https://img.shields.io/badge/-fae2dc-fae2dc?style=flat-square)
 
 ---
+
 ## 📝 وصف المشروع (Project Description)
 منصة رقمية متخصصة تهدف إلى سد الفجوة بين الطلاب المغتربين وسوق العقارات المحلي. المشروع ليس مجرد محرك بحث عن شقق، بل هو بيئة آمنة (Ecosystem) مصممة خصيصاً لتلبية احتياجات الطالب المغترب، مع مراعاة ميزانيته المحدودة واحتياجه للأمان والقرب من المنشآت التعليمية.
 
@@ -40,6 +52,7 @@
 * **ملفات المشروع (Google Drive):** [اضغط هنا للوصول للمجلد](https://drive.google.com/drive/folders/1wC0xnxhfEg7blzxPUgLagSoUY4VO8IPk?usp=sharing)
 
 ---
+
 # 🏠 دراسة تجربة المستخدم (جوار) | UX Case Study (Jewar)
 
 ## 🏠 خلفية مشروع (جوار) | Project Background
