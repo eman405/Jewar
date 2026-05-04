@@ -164,7 +164,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 <p align="center">
   <!-- صورة 1 -->
   <img src="images/1.svg" width="100%" alt="رسم بياني 1">
-  <br><br>
 
   <!-- صورة 2 -->
   <img src="images/2.svg" width="100%" alt="رسم بياني 2">
