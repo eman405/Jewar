@@ -159,4 +159,65 @@
 ---
 ## رابط استطلاع رأي المستخدمين - User Survey Google Form
 https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi5uzx5qTe0w/viewform?usp=header
-<img width="600" height="371" alt="النوع _ " src="https://github.com/user-attachments/assets/fc6a3dc9-a710-4aef-ad1f-ca7778ed2857" />
+### 📊 نتائج إحصائيات مشروع جوار (Jewar)
+
+<p align="center">
+  <!-- صورة 1 -->
+  <img src="images/1.svg" width="100%" alt="رسم بياني 1">
+  <br><br>
+
+  <!-- صورة 2 -->
+  <img src="images/2.svg" width="100%" alt="رسم بياني 2">
+  <br><br>
+
+  <!-- صورة 3 -->
+  <img src="images/3.svg" width="100%" alt="رسم بياني 3">
+  <br><br>
+
+  <!-- صورة 4 -->
+  <img src="images/4.svg" width="100%" alt="رسم بياني 4">
+  <br><br>
+
+  <!-- صورة 5 -->
+  <img src="images/5.svg" width="100%" alt="رسم بياني 5">
+  <br><br>
+
+  <!-- صورة 6 -->
+  <img src="images/6.svg" width="100%" alt="رسم بياني 6">
+  <br><br>
+
+  <!-- صورة 7 -->
+  <img src="images/7.svg" width="100%" alt="رسم بياني 7">
+  <br><br>
+
+  <!-- صورة 8 -->
+  <img src="images/8.svg" width="100%" alt="رسم بياني 8">
+  <br><br>
+
+  <!-- صورة 9 -->
+  <img src="images/9.svg" width="100%" alt="رسم بياني 9">
+  <br><br>
+
+  <!-- صورة 10 -->
+  <img src="images/10.svg" width="100%" alt="رسم بياني 10">
+  <br><br>
+
+  <!-- صورة 11 -->
+  <img src="images/11.svg" width="100%" alt="رسم بياني 11">
+  <br><br>
+
+  <!-- صورة 12 -->
+  <img src="images/12.svg" width="100%" alt="رسم بياني 12">
+  <br><br>
+
+  <!-- صورة 13 -->
+  <img src="images/13.svg" width="100%" alt="رسم بياني 13">
+  <br><br>
+
+  <!-- صورة 14 -->
+  <img src="images/14.svg" width="100%" alt="رسم بياني 14">
+  <br><br>
+
+  <!-- صورة 15 -->
+  <img src="images/15.svg" width="100%" alt="رسم بياني 15">
+</p>
