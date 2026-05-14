@@ -186,6 +186,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 
 ### **المقابلة الأولى**
 > "فكرة التدوير اصلا على سكن رخمة جدا، عمري ما عرفت اجيب سكن لنفسي"
+
 🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat 1.svg)
 
 <p align="center">
@@ -196,6 +197,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 
 ### **المقابلة الثانية**
 > "بيبقي اختلاف كبير جدا في الطباع وفي مستوي النضافه وفي الكلام.."
+
 🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat 2.svg)
 <p align="center">
   <img src="images/chat 2 Quote.svg" width="80%" alt="chat 2 Quote">
@@ -205,6 +207,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 
 ### **المقابلة الثالثة**
 > "ايوة بينصبوا عليا في التامين وبيشيلوني حاجات انا معملتهاش.."
+
 🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat 3.svg)
 <p align="center">
   <img src="images/chat 3 Quote.svg" width="80%" alt="chat 3 Quote">
@@ -214,6 +217,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 
 ### **المقابلة الرابعة**
 > "مرتاح معاهم وصحابك."
+
 🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat 4.svg)
 <p align="center">
   <img src="images/chat 4 Quote.svg" width="80%" alt="chat 4 Quote">
