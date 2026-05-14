@@ -179,10 +179,40 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
   <img src="images/15.svg" width="100%" alt="رسم بياني 15">
 </p>
 ---
-## مقابلات المستخدمين - User Interviews
+## 🗣️ مقابلات المستخدمين (User Interviews)
+
+بناءً على المقابلات اللي عملناها مع عينة من الطلاب المغتربين، دي كانت أهم الاقتباسات (Quotes) اللي بتلخص معاناتهم:
+
+### **المقابلة الأولى**
+> "فكرة التدوير اصلا على سكن رخمة جدا، عمري ما عرفت اجيب سكن لنفسي"
 <p align="center">
-  <img src="images/chat 1 Quote.svg" width="100%" alt="رسم بياني 1">
-  <img src="images/chat 2 Quote.svg" width="100%" alt="رسم بياني 1">
-  <img src="images/chat 3 Quote.svg" width="100%" alt="رسم بياني 1">
-  <img src="images/chat 4 Quote.svg" width="100%" alt="رسم بياني 1">
+  <img src="images/chat 1 Quote.svg" width="80%" alt="chat 1 Quote">
 </p>
+🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat 1.svg)
+
+---
+
+### **المقابلة الثانية**
+> "بيبقي اختلاف كبير جدا في الطباع وفي مستوي النضافه وفي الكلام.."
+<p align="center">
+  <img src="images/chat 2 Quote.svg" width="80%" alt="chat 2 Quote">
+</p>
+🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat 2.svg)
+
+---
+
+### **المقابلة الثالثة**
+> "ايوة بينصبوا عليا في التامين وبيشيلوني حاجات انا معملتهاش.."
+<p align="center">
+  <img src="images/chat 3 Quote.svg" width="80%" alt="chat 3 Quote">
+</p>
+🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat 3.svg)
+
+---
+
+### **المقابلة الرابعة**
+> "مرتاح معاهم وصحابك."
+<p align="center">
+  <img src="images/chat 4 Quote.svg" width="80%" alt="chat 4 Quote">
+</p>
+🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat 4.svg)
