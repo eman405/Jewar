@@ -190,7 +190,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat%201.svg)
 
 <p align="center">
-  <img src="images/chat 1 Quote.svg" width="80%" alt="chat 1 Quote">
+  <img src="images/chat 1 Quote.svg" width="100%" alt="chat 1 Quote">
 </p>
 
 ---
@@ -201,7 +201,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat%202.svg)
 
 <p align="center">
-  <img src="images/chat 2 Quote.svg" width="80%" alt="chat 2 Quote">
+  <img src="images/chat 2 Quote.svg" width="100%" alt="chat 2 Quote">
 </p>
 
 ---
@@ -212,7 +212,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat%203.svg)
 
 <p align="center">
-  <img src="images/chat 3 Quote.svg" width="80%" alt="chat 3 Quote">
+  <img src="images/chat 3 Quote.svg" width="100%" alt="chat 3 Quote">
 </p>
 
 ---
@@ -223,5 +223,5 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 🔗 [اضغط هنا لمشاهدة المحادثة الكاملة](images/chat%204.svg)
 
 <p align="center">
-  <img src="images/chat 4 Quote.svg" width="80%" alt="chat 4 Quote">
+  <img src="images/chat 4 Quote.svg" width="100%" alt="chat 4 Quote">
 </p>
