@@ -234,3 +234,17 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 <p align="center">
   <img src="images/بيرسونا عمار.png" width="100%" alt="بيرسونا عمار">
 </p>
+
+### **بيرسونا ميار**
+
+<p align="center">
+  <img src="images/بيرسونا ميار.png" width="100%" alt="بيرسونا ميار">
+</p>
+
+### **بيرسونا أ مختار**
+
+<p align="center">
+  <img src="images/بيرسونا أ مختار.png" width="100%" alt="بيرسونا أ مختار">
+</p>
+
+---
