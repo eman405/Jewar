@@ -253,6 +253,19 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 
 ---
 
+## خريطة التعاطف - Empathy Map
+
+<p align="center">
+  <img src="images/إمباثي عمار.png" width="100%" alt="إمباثي عمار">
+</p>
+
+<p align="center">
+  <img src="images/إمباثي ميار.png" width="100%" alt="إمباثي ميار">
+</p>
+
+---
+
+
 ### **خريطة التطبيق -Information Archi.**
 
 <p align="center">
