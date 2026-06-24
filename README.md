@@ -252,3 +252,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 </p>
 
 ---
+
+### **خريطة التطبيق -Information Archi.**
+
+<p align="center">
+  <img src="images/JewarIA.png" width="100%" alt="JewarIA">
+</p>
