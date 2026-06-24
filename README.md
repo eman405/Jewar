@@ -225,3 +225,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSdjsmsVI_F49vpFHyY6QaZS20ISuE6_zz0XqOEi
 <p align="center">
   <img src="images/chat 4 Quote.svg" width="100%" alt="chat 4 Quote">
 </p>
+
+---
+
+## بيرسونا المستخدمين - User Persona
+### **بيرسونا عمار**
+
+<p align="center">
+  <img src="images/بيرسونا عمار.png" width="100%" alt="بيرسونا عمار">
+</p>
