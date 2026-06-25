@@ -10,6 +10,24 @@
 
 ---
 
+## 📐 UI/UX Design Assets
+
+تم تقسيم مشروع التصميم على **Figma** إلى ثلاثة ملفات أساسية لضمان تنظيم وترتيب بيئة العمل:
+
+* 🎨 **[Design System & Foundations](https://www.figma.com/design/ncAFh8drrsIzprUXWRXonB/Jewar---%D8%AC%D9%88%D8%A7%D8%B1-Foundation?node-id=0-1&t=EBs8ykbUuFbx2QH4-1
+)**
+  يحتوي على الألوان، الخطوط، الأنماط (Styles)، والقواعد الأساسية للتصميم.
+
+* 🧩 **[UI Components Library](https://www.figma.com/design/siN4e9FxRuJO9NzDjF5CWO/Jewar---%D8%AC%D9%88%D8%A7%D8%B1-Components?node-id=0-1&t=03lgUnYmhc1MJVVI-1
+)**
+  يحتوي على جميع المكونات الذكية (Components) والعناصر التفاعلية المستخدمة في الواجهات.
+
+* 📱 **[Final UI Design & Wireframes](https://www.figma.com/design/UzcVPcH5cTl9OMfBcseVYb/Jewar---%D8%AC%D9%88%D8%A7%D8%B1-UI-Design?node-id=0-1&t=iu9kgAUK0pyTLBOx-1
+)**
+  يحتوي على الواجهات النهائية للمشروع (User Interfaces) وتدفق المستخدم (User Flow).
+
+  ---
+  
 ## 📝 وصف المشروع (Project Description)
 منصة رقمية متخصصة تهدف إلى سد الفجوة بين الطلاب المغتربين وسوق العقارات المحلي. المشروع ليس مجرد محرك بحث عن شقق، بل هو بيئة آمنة (Ecosystem) مصممة خصيصاً لتلبية احتياجات الطالب المغترب، مع مراعاة ميزانيته المحدودة واحتياجه للأمان والقرب من المنشآت التعليمية.
 
