@@ -22,7 +22,7 @@
 )**
   يحتوي على جميع المكونات الذكية (Components) والعناصر التفاعلية المستخدمة في الواجهات.
 
-* 📱 **[Final UI Design & Wireframes](https://www.figma.com/design/UzcVPcH5cTl9OMfBcseVYb/Jewar---%D8%AC%D9%88%D8%A7%D8%B1-UI-Design?node-id=0-1&t=iu9kgAUK0pyTLBOx-1
+* 📱 **[Final UI Design & Case Study](https://www.figma.com/design/UzcVPcH5cTl9OMfBcseVYb/Jewar---%D8%AC%D9%88%D8%A7%D8%B1-UI-Design?node-id=0-1&t=iu9kgAUK0pyTLBOx-1
 )**
   يحتوي على الواجهات النهائية للمشروع (User Interfaces) وتدفق المستخدم (User Flow).
 
