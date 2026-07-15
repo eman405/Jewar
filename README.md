@@ -1,3 +1,8 @@
+رابط العرض التقديمي الخاص بالمشروع (Case Study):
+* 🎨 **[Case Study/Presentation](https://drive.google.com/file/d/1GDPs5LSNFr9RhsRjM5SDaVS-ndIFj0Dl/view?usp=sharing)**
+
+---
+
 <img width="1600" height="400" alt="Form Cover" src="https://github.com/user-attachments/assets/894cdc65-5ffb-4054-a313-3b6b2d947472" />
 
 # جِوار - Jewar 🏠🎓
